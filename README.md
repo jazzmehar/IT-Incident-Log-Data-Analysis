@@ -247,7 +247,11 @@ Potential enhancements include:
 
 ## Project Visualizations
 
-
+![Bar Graph](images/BarGraph.png)
+![Horizontal Bar Chart](images/HBarChart.png)
+![Heatmap](images/Heatmap.png)
+![Line Chart](images/LineChart.png)
+![Pie Chart](images/PieChart.png)
 
 ---
 
