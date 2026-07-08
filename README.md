@@ -219,20 +219,6 @@ Some of the major insights generated include:
 
 ---
 
-# Repository Structure
-
-```text
-IT-Incident-Log-Data-Analysis/
-│
-├── Project_on_IT_incident_log_DA.ipynb
-├── README.md
-└── IT_Incident_Log.csv
-```
-
-*(Remove the dataset entry above if the dataset is not included in the repository.)*
-
----
-
 # Future Improvements
 
 Potential enhancements include:
